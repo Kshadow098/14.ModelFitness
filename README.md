@@ -54,4 +54,4 @@ The dataset contains 4,000 records of gym members with the following features:
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [URL_DEL_TU_REPO]
+   git clone (https://github.com/Kshadow098/14.ModelFitness.git)
